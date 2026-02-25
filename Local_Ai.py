@@ -19,3 +19,11 @@ While True:
 
     else:
         print("Bot : I don't understand that yet.")
+
+
+responses = {
+    "hello" : "Hi there!",
+    "hi" : "Hello!",
+    "bye" : "Goodbye!",
+    "help" : "I can answer basic questions."
+}
