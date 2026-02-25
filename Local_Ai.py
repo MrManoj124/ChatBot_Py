@@ -29,4 +29,6 @@ responses = {
 }
 
 while True : 
-   
+    user_input = input("You : ").lower()
+
+    
