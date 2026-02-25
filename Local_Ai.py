@@ -31,4 +31,7 @@ responses = {
 while True : 
     user_input = input("You : ").lower()
 
+    if user_input == "Exit" :
+        print ("Bot  : Shutting down....")
+        break
     
