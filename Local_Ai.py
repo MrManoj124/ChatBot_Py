@@ -35,3 +35,5 @@ while True :
         print ("Bot  : Shutting down....")
         break
     
+    response = responses.get(user_input, "I don't understand that.")
+    print("Bot : ", response)
