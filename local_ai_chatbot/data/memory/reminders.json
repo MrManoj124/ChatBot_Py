@@ -1,0 +1,16 @@
+﻿[
+  {
+    "id": "rem-001",
+    "title": "Pay electricity bill",
+    "trigger_at": "2026-03-07T19:00:00+05:30",
+    "channel": "in_app",
+    "status": "pending"
+  },
+  {
+    "id": "rem-002",
+    "title": "Call parents",
+    "trigger_at": "2026-03-06T20:30:00+05:30",
+    "channel": "in_app",
+    "status": "pending"
+  }
+]

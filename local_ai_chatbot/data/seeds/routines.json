@@ -1,0 +1,16 @@
+﻿[
+  {
+    "id": "morning_routine",
+    "name": "Morning Routine",
+    "time": "06:15",
+    "days": ["mon", "tue", "wed", "thu", "fri"],
+    "steps": ["Drink water", "10 min stretch", "Review top 3 tasks"]
+  },
+  {
+    "id": "evening_shutdown",
+    "name": "Evening Shutdown",
+    "time": "21:30",
+    "days": ["daily"],
+    "steps": ["Plan tomorrow", "Write one journal line", "No screens for 30 mins"]
+  }
+]

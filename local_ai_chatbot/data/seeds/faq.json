@@ -1,0 +1,14 @@
+﻿[
+  {
+    "question": "what can you do",
+    "answer": "I can track tasks, notes, reminders, routines, and answer basic personal productivity questions."
+  },
+  {
+    "question": "how do i add a task",
+    "answer": "Say: add task <title> by <date>. Example: add task pay bill by 2026-03-09."
+  },
+  {
+    "question": "where is my data stored",
+    "answer": "All your data is stored locally under local_ai_chatbot/data."
+  }
+]

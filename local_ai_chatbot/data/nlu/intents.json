@@ -1,0 +1,37 @@
+﻿{
+  "version": "1.0",
+  "intents": [
+    {
+      "name": "add_task",
+      "examples": [
+        "add task finish report tomorrow",
+        "create a task for gym at 6 pm",
+        "remind me to submit assignment"
+      ]
+    },
+    {
+      "name": "list_tasks",
+      "examples": [
+        "show my tasks",
+        "what is pending today",
+        "list todo items"
+      ]
+    },
+    {
+      "name": "add_note",
+      "examples": [
+        "save note buy milk",
+        "note this idea for app",
+        "write a quick note"
+      ]
+    },
+    {
+      "name": "show_routine",
+      "examples": [
+        "what is my morning routine",
+        "show evening shutdown steps",
+        "routine for today"
+      ]
+    }
+  ]
+}

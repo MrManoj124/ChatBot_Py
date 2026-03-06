@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": "task-001",
+    "title": "Finish chatbot refactor",
+    "priority": "high",
+    "due_date": "2026-03-08",
+    "status": "todo",
+    "tags": ["coding", "project"]
+  },
+  {
+    "id": "task-002",
+    "title": "30-minute walk",
+    "priority": "medium",
+    "due_date": "2026-03-06",
+    "status": "todo",
+    "tags": ["health"]
+  },
+  {
+    "id": "task-003",
+    "title": "Read 10 pages",
+    "priority": "low",
+    "due_date": "2026-03-06",
+    "status": "done",
+    "tags": ["learning"]
+  }
+]
