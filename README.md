@@ -35,9 +35,15 @@ A simple local command-line chatbot project in Python.
 
 ## Commands
 
-- Type normal text to chat
-- Type `help` to see supported inputs
-- Type `exit` to quit
+- `help` - show supported commands
+- `list tasks` - show tasks from `data/memory/tasks.json`
+- `add task <title>` - create a new task
+- `done task <task-id>` - mark task as done
+- `list notes` - show recent notes
+- `add note <text>` - save a note
+- `list reminders` - show reminders
+- `add reminder <title> at <YYYY-MM-DD HH:MM>` - create reminder
+- `exit` - quit chatbot
 
 ## Sample Personal File Tree
 
