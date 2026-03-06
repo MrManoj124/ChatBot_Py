@@ -21,3 +21,5 @@ def get_response(user_message: str) -> str:
         return "Please type something."
 
     return RESPONSES.get(message, "I don't understand that yet.")
+
+    
